@@ -6,12 +6,15 @@
 - 🌱 Estou estudando para me tornar um DevOps
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="gbr-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="gbr-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="gbr-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="gbr-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="gbr-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="gbr-nrt" src="">
+  <img align="center" alt="gbr-docker" height="30" width="40" src="https://github.com/Gsaavedra-sa/portfolio/blob/main/public/images/docker.svg">
+  <img align="center" alt="gbr-aws" height="30" width="40" src="https://github.com/Gsaavedra-sa/portfolio/blob/main/public/images/aws-2.svg">
+  <img align="center" alt="gbr-azure" height="30" width="40" src="https://github.com/Gsaavedra-sa/portfolio/blob/main/public/images/microsoft-azure-3.svg">
+  <img align="center" alt="gbr-linux" height="30" width="40" src="https://github.com/Gsaavedra-sa/portfolio/blob/main/public/images/linux-tux.svg">
+
+
 </div>
   
   ##
