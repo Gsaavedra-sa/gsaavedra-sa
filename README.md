@@ -4,6 +4,7 @@
 
 - 🔭 Hoje trabalho com infraestrutura
 - 🌱 Estou estudando para me tornar um DevOps
+- 🌱 Meu portfolio https://www.gabrielsaito.dev/
 
 <div style="display: inline_block"><br>
   <img align="center" alt="gbr-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
