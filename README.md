@@ -2,8 +2,7 @@
 
 
 
-- 🔭 Hoje trabalho com infraestrutura
-- 🌱 Estou estudando para me tornar um DevOps
+- 🔭 Senior Application Security
 - 🌱 Meu portfolio https://www.gabrielsaito.dev/
 
 <div style="display: inline_block"><br>
